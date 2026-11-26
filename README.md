@@ -45,3 +45,7 @@ page with the Chromium binary over CDP (development only; not run by `main.ts`).
 MIT — see `LICENSE`.
 
 <!-- make.fun entry: token-radar-01 | owner wallet HWoj4LmKQTSK69nGp4EKHMWpisi4aXTMftLojV8QXh3q -->
+
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/awisbiasa/token-radar-01-entry/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/awisbiasa/token-radar-01-entry/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
