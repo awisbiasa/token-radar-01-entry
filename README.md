@@ -43,3 +43,5 @@ page with the Chromium binary over CDP (development only; not run by `main.ts`).
 ## License
 
 MIT — see `LICENSE`.
+
+<!-- make.fun entry: token-radar-01 | owner wallet HWoj4LmKQTSK69nGp4EKHMWpisi4aXTMftLojV8QXh3q -->
